@@ -7,7 +7,6 @@
   Based on the chart above, monthly revenue from 2011-2014 is seasonal because in certain months there is an increase and decrease. In September and November in 2011-2014 there was always a fairly high increase in income, this may be due to the high demand for products for the Halloween and Christmas celebration preparation.
   
 # Modeling Using RFM
-# Preprocessing Modeling
 ### Recency Frequency Monetary (RFM)
 
 RFM is a model used in marketing analysis that segments a company's consumer base by their purchasing patterns or habits. 
@@ -16,6 +15,10 @@ RFM is a model used in marketing analysis that segments a company's consumer bas
 - Frequency : how often a customer buys from us
 - Monetary value : the total value of purchases a customer has made.
 
-1. Create new data frame containing customer name column and recency column. This is done by calculating how long since customers make purchases.
-2. Create new data frame containing customer name column, frequency column, and monetary column. The results of frequency can be determined by calculating how often customers make a purchase. While the monetary is produced from the calculation of how much money the customer spent making purchases.
-3. Combine the recency table with the frequency and monetary table.
+# Preprocessing Modeling
+
+- Create new data frame containing customer name column and recency column. This is done by calculating how long since customers make purchases.
+- Create new data frame containing customer name column, frequency column, and monetary column. The results of frequency can be determined by calculating how often customers make a purchase. While the monetary is produced from the calculation of how much money the customer spent making purchases.
+- Combine the recency table with the frequency and monetary table.
+
+# Modeling
