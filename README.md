@@ -1,4 +1,17 @@
 # Customer Segmentation
+# Workflow Customer Segmentation
+1. Use Case
+2. Business Understanding
+3. Data Understanding
+4. Data Preparation
+5. Data Profiling
+6. Data Cleansing
+7. Exploratory Data Analysis
+8. Preprocessing Modeling - RFM
+9. Modelling - RFM
+10. Labeling
+11. Result
+12. Recommendation
 # Exploratory Data Analysis
 - How much monthly revenue in 2011-2014?
 
