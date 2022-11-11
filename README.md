@@ -12,6 +12,7 @@
 10. Labeling
 11. Result
 12. Recommendation
+
 # Exploratory Data Analysis
 - How much monthly revenue in 2011-2014?
 
