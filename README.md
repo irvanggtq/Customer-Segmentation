@@ -17,7 +17,5 @@ RFM is a model used in marketing analysis that segments a company's consumer bas
 - Monetary value : the total value of purchases a customer has made.
 
 1. Create new data frame containing customer name column and recency column. This is done by calculating how long since customers make purchases.
-
 2. Create new data frame containing customer name column, frequency column, and monetary column. The results of frequency can be determined by calculating how often customers make a purchase. While the monetary is produced from the calculation of how much money the customer spent making purchases.
-
 3. Combine the recency table with the frequency and monetary table.
