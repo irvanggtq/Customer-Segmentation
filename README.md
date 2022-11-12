@@ -13,6 +13,69 @@
 11. Result
 12. Recommendation
 
+# Use Case Summary
+- Objective Statement:
+  - To gain insight into sales fluctuations per year.
+  - To gain insight into the revenue earned per year and month.
+  - To find out how long it's been since a customer ordering.
+  - To gain insight about how often a customer orders.
+  - To find out how much money customers spend on ordering goods.
+  - To get insight about customer segmentation analysis.
+
+- Challenges:
+  - Large size of data, cannot maintain by excel spreadsheet.
+  - There are inappropriate data types.
+
+- Methodology / Analytic Technique:
+  - Descriptive Analysis.
+  - Graph Analysis.
+  - Segment Analysis using Recency Frequency Monetary (RFM) Modelling
+
+- Business Benefit:
+  - Knowing sales performance every year so, it can be a reference for future decision making.
+  - Helping Business Development Team to create product differentiation based on the characteristic for each customer.
+  - Knowing how to treat customer with specific criteria.
+
+- Expected Outcome:
+  - Find out how sales fluctuate per year.
+  - Find out how much revenue per year and per month.
+  - Find out how long it's been since the customer ordered.
+  - Find out how often customers orders.
+  - Find out how much the customer spends when orders.
+  - Know customer segmentation analysis.
+  
+# Business Understanding
+- Retail is the sale of goods from a business to a consumer for their own use. A retail transaction handles small quantities of goods whereas wholesale deals with the purchasing of goods on a large scale.
+- This case has some business question using the data:
+  - How sales fluctuate per year?
+  - How much revenue per year and per month?
+  - How long it's been since the customer ordered?
+  - How often customers orders?
+  - How much the customer spends when orders?
+  - How about customer segmentation analysis?
+  
+# Data Understanding
+- Data of Customer order with 4 columns and 5009 rows
+- This data from 04/01/2011 to 31/12/2014
+- Source Code : https://www.kaggle.com/datasets/siddinho/sample-orders-dataset-retail
+- Data Dictionary :
+  - order_date : Customer order date 
+  - order_id : Customer order unique Id
+  - customer : Customer name
+  - grand_total : Total cost from customers order
+
+# Data Preparation
+Code Used:
+- Python Version: 3.7.15
+- Packages: Pandas, Numpy, Matplotlib, Seaborn, Datetime, Plotly and Warnings
+
+# Data Profiling
+Data profiling is the process of reviewing source data, understanding structure, content and interrelationships, and identifying potential for data projects.
+
+# Data Cleansing
+- Data cleansing is the process of identifying and resolving corrupt, inaccurate, or irrelevant data.
+- Common inaccuracies in data include missing values, misplaced entries, and typographical errors. In some cases, data cleansing requires certain values to be filled in or corrected, while in other instances, the values will need to be removed altogether.
+
 # Exploratory Data Analysis
 - How many product sold every month in 2011?
 
