@@ -16,37 +16,37 @@
 # Exploratory Data Analysis
 - How many product sold every month in 2011?
 
-![2011](https://user-images.githubusercontent.com/113870005/201457757-1166d40b-e911-4a33-81ce-824bc27eb218.png)
+![2011](https://user-images.githubusercontent.com/113870005/201459678-b3792766-c4e9-49bd-8eda-e5d63e932ab8.png)
 
 The number of items purchased tends to **increase every year**. **In October sales declined sharply** but increased again in the following month, even exceeding sales in September. As for sales in **December experienced decline again**.
 
 - How many product sold every month in 2012?
 
-![2012](https://user-images.githubusercontent.com/113870005/201457764-4a566a57-e466-43b7-9d74-924c4f8e934c.png)
+![2012](https://user-images.githubusercontent.com/113870005/201459681-2664527e-6c20-4efa-acd0-f8b3af3b366e.png)
 
 The number of items purchased tends to **increase every month**, in February to March there is a **sharp increase about 2 times**. In September there was a sharp increase. However, in the following month, October, there was a sharp decline. However, in November there was a high increase even higher than in September and  **increased again in December**.
 
 - How many product sold every month in 2013?
 
-![2013](https://user-images.githubusercontent.com/113870005/201457767-4e9b65ac-64f4-40fa-b947-68ba32887e57.png)
+![2013](https://user-images.githubusercontent.com/113870005/201459688-23b70b3e-a845-4fd7-91d5-5532bfaf40e7.png)
 
 The number of items purchased tends to **increase every month**, in February to March there is a **sharp increase to almost 2 times**. In September there was a sharp increase. However, in the following month, October, there was a sharp decline. However, in November there was a high increase in the number of goods purchased and returned **decreased slightly sales in December**.
 
 - How many product sold every month in 2014?
 
-![2014](https://user-images.githubusercontent.com/113870005/201457774-73c6eca1-b81f-460a-b73f-c0f0ba4e12d5.png)
+![2014](https://user-images.githubusercontent.com/113870005/201459692-e5c62253-d787-4a5f-8840-07830a03f361.png)
 
 The number of items purchased tends to **increase every month**, in February to March there is a sharp increase to almost 2 times. In September there was a sharp increase. However, in the following month, October, there was a sharp decline. However, in November, there was a high increase in the number of goods purchased even higher than in September and again **decreased slightly sales in December**.
 
 - How much monthly order in 2011-2014?
 
-![newplot (1)](https://user-images.githubusercontent.com/113870005/201457786-765c8b7a-9741-48f3-b1c7-cf94eeb33665.png)
+![monthly](https://user-images.githubusercontent.com/113870005/201459706-809e01b3-2b71-4655-8c1e-6a42e2d99307.png)
 
 Based on the chart above, **product sales always increased in September and November in 2011-2014**. Meanwhile, there was **always a fairly sharp decreased in October in 2011-2014**.
 
 - How much annual revenue in 2011-2014?
 
-![newplot (3)](https://user-images.githubusercontent.com/113870005/201457777-61808752-9601-4ff7-83c4-f2e7158b2c5c.png)
+![annual](https://user-images.githubusercontent.com/113870005/201459712-9ddc4da9-9766-40f9-8dbd-5bcb0396e97c.png)
 
 Based on the chart above, **revenue in 2011 amounted to 484.26K dollars** and **in 2012 it was 470,539K dollars**. This means that **there was a decrease in revenue from 2011 to 2012 by 2.83%**. Meanwhile, **from 2013 to 2014, revenue continued to increase**. When viewed quantitatively, the increase in revenue from 2012 to 2013 was 29.3%. **From 2013 to 2014, revenue increased by 20.6%**.
 
