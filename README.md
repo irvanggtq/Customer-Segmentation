@@ -14,6 +14,30 @@
 12. Recommendation
 
 # Exploratory Data Analysis
+- How many product sold every month in 2011?
+
+The number of items purchased tends to **increase every year**. **In October sales declined sharply** but increased again in the following month, even exceeding sales in September. As for sales in **December experienced decline again**.
+
+- How many product sold every month in 2012?
+
+The number of items purchased tends to **increase every month**, in February to March there is a **sharp increase about 2 times**. In September there was a sharp increase. However, in the following month, October, there was a sharp decline. However, in November there was a high increase even higher than in September and  **increased again in December**.
+
+- How many product sold every month in 2013?
+
+The number of items purchased tends to **increase every month**, in February to March there is a **sharp increase to almost 2 times**. In September there was a sharp increase. However, in the following month, October, there was a sharp decline. However, in November there was a high increase in the number of goods purchased and returned **decreased slightly sales in December**.
+
+- How many product sold every month in 2014?
+
+The number of items purchased tends to **increase every month**, in February to March there is a sharp increase to almost 2 times. In September there was a sharp increase. However, in the following month, October, there was a sharp decline. However, in November, there was a high increase in the number of goods purchased even higher than in September and again **decreased slightly sales in December**.
+
+- How much monthly order in 2011-2014?
+
+Based on the chart above, **product sales always increased in September and November in 2011-2014**. Meanwhile, there was **always a fairly sharp decreased in October in 2011-2014**.
+
+- How much annual revenue in 2011-2014?
+
+Based on the chart above, **revenue in 2011 amounted to 484.26K dollars** and **in 2012 it was 470,539K dollars**. This means that **there was a decrease in revenue from 2011 to 2012 by 2.83%**. Meanwhile, **from 2013 to 2014, revenue continued to increase**. When viewed quantitatively, the increase in revenue from 2012 to 2013 was 29.3%. **From 2013 to 2014, revenue increased by 20.6%**.
+
 - How much monthly revenue in 2011-2014?
 
   ![newplot (1)](https://user-images.githubusercontent.com/113869968/201445272-099f359c-3646-43b3-8503-14581c286291.png)
