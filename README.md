@@ -78,7 +78,8 @@ RFM is a model used in marketing analysis that segments a company's consumer bas
 - A final RFM score (Overall Value) is calculated simply by combining individual RFM score numbers.
 
 # Labelling
-![image](https://user-images.githubusercontent.com/113869964/201450903-13e36aee-ca36-4aa4-af87-29a1518d0852.png)
+![image](https://user-images.githubusercontent.com/113869964/201459364-429f82bd-2619-493f-a90e-1d954f6d0906.png)
+
 
 Based on the graph above, there are 6 segmentations of customers using RFM modeling. The Loyal Customers segmentation has the highest percentage of 16.27% of total customers. Followed by Big Spenders with a percentage amount of 15.76%, Lost Cheap Customers with a percentage amount of 8.45%, Lost Customers with a percentage amount of 3.91%, Best Customers with a percentage amount of 3.78%, Then Almost Customers with a percentage amount of 0.25%.
 
