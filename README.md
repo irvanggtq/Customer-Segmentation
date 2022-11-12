@@ -36,3 +36,7 @@ RFM is a model used in marketing analysis that segments a company's consumer bas
 - Combine the recency table with the frequency and monetary table.
 
 # Modeling
+- Split the metrics into segments using quantiles.
+- Assign a score from 1 to 4 to each Recency, Frequency and Monetary respectively.
+- 1 is the highest value, and 4 is the lowest value.
+- A final RFM score (Overall Value) is calculated simply by combining individual RFM score numbers.
