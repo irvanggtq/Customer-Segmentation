@@ -40,13 +40,13 @@
 
 - How much monthly order in 2011-2014?
 
-  ![monthly](https://user-images.githubusercontent.com/113870005/201459706-809e01b3-2b71-4655-8c1e-6a42e2d99307.png)
+  ![newplot](https://user-images.githubusercontent.com/113869968/201459847-837c7813-a4aa-47cd-8244-5bb3a16c9b6c.png)
 
   Based on the chart above, **product sales always increased in September and November in 2011-2014**. Meanwhile, there was **always a fairly sharp decreased in October in 2011-2014**.
 
 - How much annual revenue in 2011-2014?
 
-  ![annual](https://user-images.githubusercontent.com/113870005/201459712-9ddc4da9-9766-40f9-8dbd-5bcb0396e97c.png)
+  ![newplot (2)](https://user-images.githubusercontent.com/113869968/201459844-cd183e32-406f-47be-b1c4-0f83a5912bdf.png)
 
   Based on the chart above, **revenue in 2011 amounted to 484.26K dollars** and **in 2012 it was 470,539K dollars**. This means that **there was a decrease in revenue from 2011 to 2012 by 2.83%**. Meanwhile, **from 2013 to 2014, revenue continued to increase**. When viewed quantitatively, the increase in revenue from 2012 to 2013 was 29.3%. **From 2013 to 2014, revenue increased by 20.6%**.
 
