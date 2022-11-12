@@ -56,7 +56,7 @@ Based on the graph above, there are 6 segmentations of customers using RFM model
 - Based on the chart Monthly Revenue, monthly revenue from 2011-2014 is seasonal because in certain months there is an increase and decrease. In September in 2011-2014 there was always a fairly high increase in income, this may be due to the high demand for products for the feast day.
 - Based on the graph Labelling, there are 6 segmentations of customers using RFM modeling. The Loyal Customers segmentation has the highest percentage of 16.27% of total customers. Followed by Big Spenders with a percentage amount of 15.76%, Lost Cheap Customers with a percentage amount of 8.45%, Lost Customers with a percentage amount of 3.91%, Best Customers with a percentage amount of 3.78%, Then Almost Customers with a percentage amount of 0.25%.
 
-# Recomendation
+# Recommendation
 - Recommendations for increased orders in a given month such as September and November: focus on increasing the amount of production of goods because in certain months such as September and November will receive high demand.
 - Recommendations for a decrease orders in a given month such as October: focus on improving marketing strategy so that customers will orders in that month. It can also be by optimizing sales such as multiplying products in October with Halloween celebrations or give points to increase customer purchasing power by giving vouchers or other gifts. The company also can hold an event or sale that smells of Valentine's Day in February to increase sales for that month.
 - Recommendations for Loyal Customers segment: The company must optimize the campaign for this customer segment in order to maintain their loyalty. It can also give additional points for customer loyalty.
